@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+rapidfuzz
+matplotlib
+requests
+tmdbsimple     # if you call TMDB API for posters or movie info
+pickle5
